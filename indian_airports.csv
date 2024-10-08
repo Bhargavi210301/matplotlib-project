@@ -1,0 +1,345 @@
+name,latitude,elevation,location,last_updated
+Indira Gandhi International Airport,28.5665,777,New Delhi,2017-12-15T03:08:58+00:00
+Chhatrapati Shivaji International Airport,19.08869934,39,Mumbai,2013-04-12T01:27:48+00:00
+Kempegowda International Airport,13.1979,3000,Bangalore,2016-02-01T17:54:36+00:00
+Chennai International Airport,12.99000549,52,Chennai,2008-12-07T02:26:07+00:00
+Dabolim Airport,15.38080025,150,Vasco da Gama,2013-04-27T02:00:28+00:00
+Cochin International Airport,10.152,30,Kochi,2017-08-14T21:46:46+00:00
+Netaji Subhash Chandra Bose International Airport,22.65469933,16,Kolkata,2008-06-13T14:30:04+00:00
+Rajiv Gandhi International Airport,17.23131752,2024,Hyderabad,2016-01-12T23:34:46+00:00
+Trivandrum International Airport,8.48211956,15,Thiruvananthapuram,2015-06-07T09:22:17+00:00
+Sardar Vallabhbhai Patel International Airport,23.07719994,189,Ahmedabad,2010-08-30T13:18:43+00:00
+Jaipur International Airport,26.8242,1263,Jaipur,2018-09-15T03:40:23+00:00
+HAL Airport,12.94999981,2912,Bangalore,2010-03-16T04:45:50+00:00
+Pune Airport,18.58209991,1942,Pune,2008-06-13T14:30:04+00:00
+Sri Guru Ram Dass Jee International Airport,31.70960045,756,Amritsar,2015-01-21T15:57:04+00:00
+Vadodara Airport,22.336201,129,Vadodara,2018-07-14T01:52:53+00:00
+Mangalore International Airport,12.9612999,337,Mangalore,2010-09-02T22:02:00+00:00
+Begumpet Airport,17.4531002,1742,Hyderabad,2016-01-12T23:32:13+00:00
+Lal Bahadur Shastri Airport,25.45240021,266,Varanasi,2010-09-01T18:43:16+00:00
+Calicut International Airport,11.13679981,342,Calicut,2011-09-02T04:53:33+00:00
+Biju Patnaik Airport,20.24440002,138,Bhubaneswar,2010-09-07T17:37:14+00:00
+Coimbatore International Airport,11.02999973,1324,Coimbatore,2010-09-07T19:06:09+00:00
+Lokpriya Gopinath Bordoloi International Airport,26.10610008,162,Guwahati,2008-06-13T14:30:04+00:00
+Lok Nayak Jayaprakash Airport,25.59129906,170,Patna,2010-09-08T18:02:08+00:00
+Devi Ahilyabai Holkar Airport,22.72179985,1850,Indore,2010-09-07T20:17:15+00:00
+Jodhpur Airport,26.25110054,717,Jodhpur,2008-06-13T14:30:04+00:00
+Madurai Airport,9.83450985,459,Madurai,2010-09-09T20:23:44+00:00
+Bagdogra Airport,26.68120003,412,Siliguri,2008-06-13T14:30:04+00:00
+Vishakhapatnam Airport,17.72120094,15,Visakhapatnam,2013-04-27T10:23:44+00:00
+Chaudhary Charan Singh International Airport,26.76059914,410,Lucknow,2010-09-08T18:00:49+00:00
+Chandigarh Airport,30.67350006,1012,Chandigarh,2009-01-30T17:13:02+00:00
+Surat Airport,21.1140995,16,Unknown,2012-05-19T04:56:22+00:00
+Juhu Aerodrome,19.09810066,13,Mumbai,2008-06-15T10:01:25+00:00
+Vir Savarkar International Airport,11.64120007,14,Port Blair,2008-06-13T14:30:04+00:00
+Raipur Airport,21.180401,1041,Raipur,2018-05-18T02:47:52+00:00
+Sheikh ul Alam Airport,33.98709869,5429,Srinagar,2009-03-24T12:12:26+00:00
+Dr. Babasaheb Ambedkar International Airport,21.09219933,1033,Naqpur,2008-06-13T14:30:04+00:00
+Maharana Pratap Airport,24.61770058,1684,Udaipur,2010-09-08T18:14:20+00:00
+Aurangabad Airport,19.86269951,1911,Aurangabad,2008-06-13T14:30:04+00:00
+Birsa Munda Airport,23.31430054,2148,Ranchi,2014-05-30T22:38:27+00:00
+Bhuj Airport,23.28779984,268,Bhuj,2010-09-07T19:02:16+00:00
+Vijayawada Airport,16.53039932,82,Unknown,2008-06-13T14:30:04+00:00
+Agartala Airport,23.88699913,46,Agartala,2010-09-07T10:39:56+00:00
+Jorhat Airport,26.73150063,311,Jorhat,2010-09-09T20:20:17+00:00
+Sri Sathya Sai Airport,14.14929962,1558,Puttaparthi,2016-01-10T22:35:34+00:00
+Darbhanga Airport,26.19280052,156,Unknown,2008-06-13T14:30:04+00:00
+Gondia Airport,21.52619934,990,Unknown,2013-09-16T09:04:43+00:00
+Rajkot Airport,22.30920029,441,Rajkot,2010-09-08T18:10:15+00:00
+Raja Bhoj International Airport,23.28750038,1711,Bhopal,2013-04-12T01:50:07+00:00
+Imphal Airport,24.76000023,2540,Imphal,2010-09-09T20:18:47+00:00
+Jamnagar Airport,22.46549988,69,Jamnagar,2008-06-13T14:30:04+00:00
+Leh Kushok Bakula Rimpochee Airport,34.13589859,10682,Leh,2010-09-09T20:22:45+00:00
+Rajahmundry Airport,17.11039925,151,Rajahmundry,2010-09-09T20:24:35+00:00
+Tirupati Airport,13.63249969,350,Tirupati,2010-09-09T20:26:05+00:00
+Dibrugarh Airport,27.48390007,362,Dibrugarh,2010-03-15T10:13:14+00:00
+Khajuraho Airport,24.81719971,728,Khajuraho,2010-09-09T20:21:21+00:00
+Kullu Manali Airport,31.87669945,3573,Unknown,2008-06-13T14:30:04+00:00
+Ambala Air Force Station,30.36809921,909,Unknown,2008-06-13T14:30:04+00:00
+Allahabad Airport,25.44009972,322,Allahabad,2008-06-13T14:30:04+00:00
+Harihar Airport,14.53509998,1750,Unknown,2009-10-01T03:28:38+00:00
+Kalaikunda Air Force Station,22.33950043,200,Unknown,2008-06-13T14:30:04+00:00
+Nashik Airport,20.119101,1900,Nasik,2018-04-30T11:20:14+00:00
+Baramati Airport,18.226944,1978,Pune,2017-11-30T21:04:56+00:00
+Tiruchirapally Civil Airport Airport,10.76539993,288,Tiruchirappally,2008-06-13T14:30:04+00:00
+Jammu Airport,32.68909836,1029,Jammu,2012-03-16T04:36:59+00:00
+Belgaum Airport,15.85929966,2487,Belgaum,2013-04-27T10:09:06+00:00
+Bhavnagar Airport,21.75219917,44,Bhavnagar,2010-09-07T17:34:47+00:00
+Tezpur Airport,26.70910072,240,Unknown,2008-06-13T14:30:04+00:00
+Gaya Airport,24.74430084,380,Unknown,2008-06-13T14:30:04+00:00
+Jabalpur Airport,23.17779922,1624,Unknown,2008-06-13T14:30:04+00:00
+Dehradun Airport,30.189699,1831,Dehradun,2018-04-30T10:28:53+00:00
+Gandhinagar Airport,19.96369934,1959,Nashik,2015-10-13T01:25:15+00:00
+Porbandar Airport,21.64870071,23,Porbandar,2010-09-08T18:07:33+00:00
+Silchar Airport,24.91290092,352,Silchar,2010-09-11T09:35:03+00:00
+Diu Airport,20.71310043,31,Diu,2008-06-13T14:30:04+00:00
+Hubli Airport,15.36170006,2171,Hubli,2013-04-27T10:17:55+00:00
+Keshod Airport,21.31710052,167,Unknown,2008-06-13T14:30:04+00:00
+Kangra Airport,32.1651001,2525,Unknown,2008-06-13T14:30:04+00:00
+Shimla Airport,31.0818,5072,Unknown,2016-05-31T09:39:17+00:00
+Bidar Air Force Station,17.90810013,2178,Unknown,2008-06-13T14:30:04+00:00
+Agatti Airport,10.82369995,14,Unknown,2008-06-13T14:30:04+00:00
+Rourkela Airport,22.256701,659,Unknown,2018-04-30T11:09:09+00:00
+Bhatinda Air Force Station,30.27009964,662,Unknown,2008-06-13T14:30:04+00:00
+Agra Airport,27.15579987,551,Unknown,2008-06-13T14:30:04+00:00
+Bellary Airport,15.16279984,30,Bellary,2008-06-13T14:30:04+00:00
+Dundigul Air Force Academy,17.62719917,2013,Hyderabad,2016-01-12T23:29:15+00:00
+Sonari Airport,22.8132,475,Jamshedpur,2018-04-30T11:57:37+00:00
+Kota Airport,25.16020012,896,Kota,2015-02-11T00:03:59+00:00
+Pathankot Airport,32.233611,1017,Pathankot,2018-04-30T11:07:48+00:00
+Pondicherry Airport,11.968,134,Pondicherry,2018-04-30T10:09:06+00:00
+Willingdon Island Air Base,9.947389603,8,Kochi,2008-06-13T14:30:04+00:00
+Nagarjuna Sagar Airport,16.54269981,658,Unknown,2008-06-13T14:30:04+00:00
+Bokaro Airport,23.64349937,715,Unknown,2008-06-13T14:30:04+00:00
+Bhilai Airport,21.2942009,1014,Unknown,2009-01-30T17:05:03+00:00
+Raedhanpur Airport,23.22229958,135,Unknown,2008-06-13T14:30:04+00:00
+Bhiwani Airport,28.83699989,720,Unknown,2008-06-13T14:30:04+00:00
+Nuagaon Airport,20.51169968,656,Unknown,2008-06-13T14:30:04+00:00
+Patiala Airport,30.31480026,820,Unknown,2008-06-13T14:30:04+00:00
+Uttarlai Airport,25.81299973,500,Unknown,2008-06-13T14:30:04+00:00
+Hakimpet Airport,17.55349922,2020,Unknown,2016-01-12T23:30:43+00:00
+Fursatganj Airport,26.24850082,360,Unknown,2008-06-13T14:30:04+00:00
+Kanpur Airport,26.404301,410,Kanpur,2018-04-30T10:45:49+00:00
+"Rewa Airport, Chorhata, REWA",24.503401,1000,Rewa,2017-04-08T07:16:33+00:00
+Coimbatore Air Force Station,11.01360035,1250,Sulur,2008-06-13T14:30:04+00:00
+Yelahanka Air Force Station,13.13549995,3045,Yelahanka,2009-03-25T09:32:06+00:00
+Deoghar Airstrip,24.44666667,361,Unknown,2014-06-19T08:10:29+00:00
+kanha,22.0926386,16,Unknown,2011-11-15T09:54:20+00:00
+Barbil Aerodrome (JSPL),22.04861389,16,Unknown,2012-03-25T05:08:06+00:00
+KEONJHAR AIRPORT,21.69666667,16,Unknown,2014-03-19T22:31:25+00:00
+Nadirgul Airport,17.30606651,1811,Unknown,2016-01-12T23:33:27+00:00
+GAUCHER,30.28444444,16,Unknown,2013-09-16T09:29:25+00:00
+Amreli Airstrip,21.61985086,16,Amreli,2010-09-15T10:20:27+00:00
+Bhagalpur Airport,25.249359,16,Bhagalpur,2014-03-19T22:38:35+00:00
+"Kopal,Hospet Airport",15.358334,1698,Hospete,2009-10-20T12:07:01+00:00
+Koppal Aerodrome,15.35910034,1700,Koppal,2009-08-05T21:58:06+00:00
+Shibpur Airstrip,13.2363163,16,Madhupur,2010-12-29T19:26:41+00:00
+Kolhapur Airport,16.66469955,1996,Unknown,2010-02-21T12:47:19+00:00
+Satna Airport,24.5623,1060,Unknown,2018-09-15T16:16:31+00:00
+Tuirial Airfield,23.7432,1093,Aizawl,2014-07-04T15:42:03+00:00
+Dimapur Airport,25.88389969,487,Dimapur,2010-09-11T09:34:10+00:00
+Gwalior Airport,26.29330063,617,Gwalior,2008-06-13T14:30:04+00:00
+Kanpur Civil Airport,26.441401,411,Kanpur,2018-04-30T10:43:37+00:00
+North Lakhimpur Airport,27.2954998,330,Lilabari,2008-06-13T14:30:04+00:00
+Shillong Airport,25.70359993,2910,Shillong,2008-06-13T14:30:04+00:00
+Car Nicobar Air Force Station,9.152509689,5,Unknown,2008-06-13T14:30:04+00:00
+Along Airport,28.1753006,900,Unknown,2008-06-13T14:30:04+00:00
+Dhanbad Airport,23.83399963,847,Unknown,2008-06-13T14:30:04+00:00
+Muzaffarpur Airport,26.11910057,174,Unknown,2008-06-13T14:30:04+00:00
+Daman Airport,20.43440056,33,Unknown,2008-06-13T14:30:04+00:00
+Safdarjung Airport,28.58449936,705,Unknown,2008-06-13T14:30:04+00:00
+Hissar Airport,29.17939949,700,Unknown,2008-06-13T14:30:04+00:00
+Sirsa Air Force Station,29.56060028,650,Unknown,2008-06-13T14:30:04+00:00
+Udhampur Air Force Station,32.90219879,2066,Unknown,2008-06-13T14:30:04+00:00
+Ratnagiri Airport,17.013599,305,Unknown,2018-04-30T11:42:45+00:00
+Guna Airport,24.654699,1600,Unknown,2017-04-08T07:19:54+00:00
+Ludhiana Airport,30.85470009,834,Unknown,2008-06-13T14:30:04+00:00
+Jaisalmer Airport,26.88870049,751,Unknown,2008-06-13T14:30:04+00:00
+Kailashahar Airport,24.30820084,79,Unknown,2008-06-13T14:30:04+00:00
+Panagarh Air Force Station,23.47430038,240,Unknown,2010-12-26T00:02:14+00:00
+Akola Airport,20.698999,999,Akola,2018-04-30T11:37:04+00:00
+Bareilly Air Force Station,28.42210007,580,Bareilly,2014-06-15T13:46:37+00:00
+Nal Airport,28.07060051,750,Bikaner,2008-06-13T14:30:04+00:00
+Bilaspur Airport,21.9884,899,Bilaspur,2018-04-30T10:19:24+00:00
+Gorakhpur Airport,26.73970032,259,Gorakhpur,2010-09-09T20:14:22+00:00
+Hashimara Air Force Station,26.69829941,340,Jalpaiguri,2008-06-13T14:30:04+00:00
+Kadapa Airport,14.51,430,Kadapa,2018-04-30T09:59:22+00:00
+Kandla Airport,23.1127,96,Kandla,2019-01-04T02:24:38+00:00
+Pantnagar Airport,29.03339958,769,Pantnagar,2008-08-23T11:02:45+00:00
+Salem Airport,11.7833004,1008,Salem,2015-08-07T14:23:43+00:00
+Ziro Airport,27.588301,5403,Ziro,2018-04-30T12:08:30+00:00
+Campbell Bay Airport,7.013040066,16,Unknown,2008-06-13T14:30:04+00:00
+Machuka Advanced Landing Ground,28.60245801,7900,Unknown,2012-08-04T12:30:32+00:00
+Vijaynagar Advanced Landing Ground,27.1935997,4167,Unknown,2010-03-15T23:54:54+00:00
+Sookerating Airport,27.55290031,400,Unknown,2008-06-13T14:30:04+00:00
+Rupsi India Airport,26.13969994,131,Unknown,2008-06-13T14:30:04+00:00
+Giridih Airport,24.20190048,1000,Unknown,2008-06-13T14:30:04+00:00
+Daltonganj Airport,24.01930046,803,Unknown,2008-06-13T14:30:04+00:00
+Purnea Airport,25.75959969,129,Unknown,2008-06-13T14:30:04+00:00
+Raxaul Airport,26.9666996,259,Unknown,2008-06-13T14:30:04+00:00
+Deesa Airport,24.26790047,485,Unknown,2008-06-13T14:30:04+00:00
+Bhilwara Airport,28.07710075,955,Unknown,2008-06-13T14:30:04+00:00
+Karnal Airport,29.71409988,829,Unknown,2008-06-13T14:30:04+00:00
+Kalka Airport,30.8245697,1700,Unknown,2008-12-12T05:11:01+00:00
+Chakulia Airport,22.4605999,430,Unknown,2008-06-13T14:30:04+00:00
+Thoise Airport,34.65259933,10046,Unknown,2008-06-13T14:30:04+00:00
+Kargil Airport,34.52429962,9604,Unknown,2011-10-06T15:38:00+00:00
+Fukche Advanced Landing Ground,32.93740082,13700,Unknown,2009-04-23T08:05:07+00:00
+Awantipur Air Force Station,33.87659836,5393,Unknown,2008-06-13T14:30:04+00:00
+Daulat Beg Oldi Advanced Landing Ground,35.39646671,16200,Unknown,2010-03-15T23:13:30+00:00
+Chanda Airport,19.99469948,625,Unknown,2008-06-13T14:30:04+00:00
+Karad Airport,17.28590012,1890,Unknown,2008-06-13T14:30:04+00:00
+Jalgaon Airport,20.96220016,800,Unknown,2008-06-13T14:30:04+00:00
+Dhulia Airport,20.92650032,920,Unknown,2008-06-13T14:30:04+00:00
+Birlagram Airport,23.44689941,1541,Unknown,2008-06-13T14:30:04+00:00
+Sidhi Airport,24.40229988,1093,Unknown,2008-06-13T14:30:04+00:00
+Dhana Airport,23.75359917,1706,Unknown,2008-06-13T14:30:04+00:00
+Amla Airport,21.92639923,2435,Unknown,2008-06-13T14:30:04+00:00
+Nimach Airport,24.43079948,1617,Unknown,2008-06-13T14:30:04+00:00
+Burhar Airport,23.23520088,1500,Unknown,2008-06-13T14:30:04+00:00
+Ratlam Airport,23.38139915,1702,Unknown,2008-06-13T14:30:04+00:00
+Thuniabhand Airport,22.00160027,2182,Unknown,2008-06-13T14:30:04+00:00
+Band Tal Airport,26.00009918,790,Unknown,2008-06-13T14:30:04+00:00
+Cuttack Airport,20.5496006,115,Unknown,2008-06-13T14:30:04+00:00
+Jharsuguda Airport,21.91349983,751,Unknown,2008-06-13T14:30:04+00:00
+Utkela Airport,20.09740067,680,Unknown,2008-06-13T14:30:04+00:00
+Jallowal Airport,31.55999947,741,Unknown,2008-06-13T14:30:04+00:00
+Halwara Air Force Station,30.74850082,790,Unknown,2008-06-13T14:30:04+00:00
+Ondwa Airport,25.14150047,1450,Unknown,2008-06-13T14:30:04+00:00
+Phalodi Airport,27.11289978,781,Unknown,2008-06-13T14:30:04+00:00
+Sirohi Airport,24.89509964,1000,Unknown,2008-06-13T14:30:04+00:00
+Banswara Airport,23.5897007,700,Unknown,2008-06-13T14:30:04+00:00
+Abu Road Airport,24.49419975,875,Unknown,2008-06-13T14:30:04+00:00
+Suratgarh New Airport,29.38780022,554,Unknown,2008-06-13T14:30:04+00:00
+Jhunjhunu Airport,28.1067009,1110,Unknown,2008-06-13T14:30:04+00:00
+Pilani New Airport,28.34880066,1100,Unknown,2008-06-13T14:30:04+00:00
+Nagaur Airport,27.20829964,950,Unknown,2008-06-13T14:30:04+00:00
+Kovilpatti Airport,9.153889656,325,Unknown,2008-06-13T14:30:04+00:00
+Hosur Airport,12.66129971,3116,Unknown,2008-06-13T14:30:04+00:00
+Arkonam Airport,13.07120037,265,Unknown,2010-04-25T19:11:47+00:00
+Kamalpur Airport,24.13170052,131,Unknown,2008-06-13T14:30:04+00:00
+Muirpur Airport,24.12520027,1122,Unknown,2008-06-13T14:30:04+00:00
+Meerut Sw Airport,28.9048996,732,Unknown,2008-06-13T14:30:04+00:00
+Bharkot Airport,30.58289909,2983,Unknown,2008-06-13T14:30:04+00:00
+Akbarpur Airport,26.44759941,288,Unknown,2008-06-13T14:30:04+00:00
+Pithorgarh Airport,29.59359932,4910,Unknown,2008-06-13T14:30:04+00:00
+Hindon Air Force Station,28.70770073,700,Unknown,2008-06-13T14:30:04+00:00
+Jhansi Airport,25.49119949,801,Unknown,2008-06-13T14:30:04+00:00
+Sarsawa Air Force Station,29.9939003,891,Unknown,2008-06-13T14:30:04+00:00
+Burnpur Airport,23.63150024,310,Unknown,2008-06-13T14:30:04+00:00
+Adampur Airport,31.4338,775,Adampur,2018-05-19T18:45:26+00:00
+Lengpui Airport,23.84059906,1398,Aizawl,2012-08-18T16:41:43+00:00
+Balurghat Airport,25.26169968,78,Balurghat,2008-06-13T14:30:04+00:00
+Barrackpore Air Force Station,22.78100014,18,Barrackpore,2010-12-28T13:59:33+00:00
+Behala Airport,22.5042305,10,Behala,2009-04-19T09:31:13+00:00
+Tambaram Air Force Station,12.90719986,90,Chennai,2008-06-13T14:30:04+00:00
+Chabua Air Force Station,27.46220016,367,Dibrugarh,2008-06-13T14:30:04+00:00
+Dunakonda Airport,15.8063,472,Dunakonda,2015-05-13T05:54:06+00:00
+Jagdalpur Airport,19.07430077,1822,Jagdalpur,2008-06-13T14:30:04+00:00
+Jeypore Airport,18.87999916,1952,Jeypore,2008-06-13T14:30:04+00:00
+IIT Kanpur Airport,26.520399,400,Kalyanpur,2018-05-01T01:11:23+00:00
+Khowai Airport,24.061899,95,Khowai,2018-04-30T12:02:58+00:00
+Lalitpur Airport,24.71699905,1204,Lalitpur,2008-06-13T14:30:04+00:00
+Murod Kond Airport,18.411501,2136,Latur,2018-04-30T11:16:59+00:00
+Bakshi Ka Talab Air Force Station,26.98830032,385,Lucknow,2008-06-13T14:30:04+00:00
+Malda Airport,25.033001,79,Malda,2018-04-30T12:02:27+00:00
+Mysore Airport,12.23,2349,Mysore,2018-05-11T06:53:51+00:00
+Nanded Airport,19.18330002,1250,Nanded,2010-09-08T18:06:27+00:00
+Nawapara Airport,20.87000084,1058,Nawapara,2009-01-30T17:15:43+00:00
+Neyveli Airport,11.61295605,184,Neyveli,2014-02-20T18:52:02+00:00
+Pasighat Airport,28.06609917,477,Pasighat,2008-06-13T14:30:04+00:00
+Rajouri Airport,33.37789917,3000,Rajouri,2008-06-13T14:30:04+00:00
+Ramnad Naval Air Station,9.325090408,16,Ramnad,2010-05-17T12:26:02+00:00
+Hirakud Airport,21.5802002,658,Sambalpur,2008-06-13T14:30:04+00:00
+Solapur Airport,17.62800026,1584,Solapur,2012-10-22T21:27:15+00:00
+Tezu Airport,27.94120026,800,Tezu,2013-02-21T14:47:06+00:00
+Tanjore Air Force Base,10.72239971,253,Thanjavur,2008-06-13T14:30:04+00:00
+Tuticorin Airport,8.724241,129,Thoothukudi,2017-01-08T18:23:15+00:00
+Bentayan Airport,23.0951004,1666,Ujjain,2009-01-30T17:01:23+00:00
+Vellore Airport,12.90880013,764,Vellore,2008-06-13T14:30:04+00:00
+Warangal Airport,17.9144,935,Warangal,2018-04-30T10:23:17+00:00
+Tawang Air Force Station,27.58846092,8756,Unknown,2008-09-22T16:22:42+00:00
+Siachen Glacier AFS Airport,35.5,22000,Unknown,2008-06-13T14:30:04+00:00
+Cooch Behar Airport,26.33049965,138,Unknown,2010-10-30T00:57:32+00:00
+Walong Advanced Landing Ground,28.129673,16,Unknown,2015-11-29T01:00:22+00:00
+Itanagar (Naharlagun),27.111675,16,Unknown,2012-03-25T10:36:44+00:00
+Itanagar (Naharlagun),27.111675,466,Unknown,2012-03-25T10:39:06+00:00
+Ledo Airfield,27.3025,16,Unknown,2010-03-15T05:51:36+00:00
+Dinjan Airfield,27.538017,16,Unknown,2010-03-15T06:09:47+00:00
+Madhubani Airport,26.32916667,16,Unknown,2012-01-13T09:39:40+00:00
+Madhubani Airport,26.32916667,16,Unknown,2012-01-13T09:36:52+00:00
+saharsa airstrip,25.89194444,16,Unknown,2014-02-21T03:15:21+00:00
+Raigarh Airport (JSPL),21.93528056,16,Unknown,2012-03-25T04:14:07+00:00
+INDRA GANDHI AIRPORT,0.0,16,Unknown,2019-03-23T01:10:07+00:00
+Annandale Helipad,31.11138889,6120,Unknown,2012-08-26T03:58:13+00:00
+Ajog Helipad,32.92194444,7460,Unknown,2012-08-26T04:09:38+00:00
+Noamundi Airport,22.19222222,16,Unknown,2013-11-12T08:55:27+00:00
+Leh Helipad,34.12866974,10682,Unknown,2008-12-06T07:04:59+00:00
+Vijayanagar Aerodrome (JSW),15.17496667,1670,Unknown,2012-04-29T13:30:01+00:00
+Baldota Koppal Aerodrome,15.36009444,16,Unknown,2012-03-25T04:03:13+00:00
+@@ Online Istikhara for Love Problem +91-9828783978 (>,0.0,16,Unknown,2019-03-29T08:05:16+00:00
+Perunad Helipad,9.3539,16,Unknown,2015-09-04T10:03:21+00:00
+Kavaratti Helipad,10.54166794,16,Unknown,2008-12-10T03:41:20+00:00
+Baljek Airport,25.66148758,16,Unknown,2009-07-19T04:52:24+00:00
+Erase Me 16,-0.5,16,Unknown,2017-11-26T09:33:29+00:00
+Koirengei Airstrip,24.87245941,16,Unknown,2009-06-14T05:07:52+00:00
+Khargon Govt. Airstrip,21.81003019,16,Unknown,2010-12-27T06:18:15+00:00
+CHINDWARA AIRFIELD,22.0,16,Unknown,2013-09-16T09:13:32+00:00
+Thuampui Helipad,23.74586667,3214,Unknown,2010-11-11T12:09:29+00:00
+Pukpui Helipad,22.94226667,16,Unknown,2010-11-11T12:33:22+00:00
+Lunglei Helipad,22.86838333,16,Unknown,2010-11-11T12:55:12+00:00
+Vairengte Helipad,24.47891667,16,Unknown,2010-11-11T13:09:24+00:00
+Angul Airport (JSPL),20.91195,16,Unknown,2012-03-25T04:28:20+00:00
+Jajpur ( Sukinda ) Airstrip,21.03194444,400,Unknown,2014-02-21T06:25:00+00:00
+Vedanta Lanjigarh Airstrip,19.71944444,16,Unknown,2014-02-26T05:01:51+00:00
+no airport,20.46668667,16,Unknown,2015-03-17T08:40:19+00:00
+Salwas,26.141647,16,Unknown,2013-02-19T02:53:31+00:00
+Airport,26.436257,16,Unknown,2013-02-19T03:04:33+00:00
+Gangtok Helipad,27.35569763,16,Unknown,2008-12-10T23:46:09+00:00
+Pakyong Airport (Under Construction),27.2313,4590,Unknown,2016-06-02T08:29:41+00:00
+Kayathar Airstrip,8.971388817,16,Unknown,2008-12-07T03:42:46+00:00
+Chettinad Airstrip,10.16499615,16,Unknown,2008-12-07T03:56:58+00:00
+Ulundurpet Airstrip,11.68854875,16,Unknown,2010-03-15T23:22:06+00:00
+Cholavaram Airstrip,13.21024193,16,Unknown,2010-12-30T10:48:15+00:00
+Sultanpur,26.2475,16,Unknown,2012-02-09T10:17:46+00:00
+Dudhkundi Airfield,22.32459157,16,Unknown,2010-03-15T05:55:42+00:00
+Piardoba Airfield,22.98950855,16,Unknown,2010-03-15T06:01:46+00:00
+Bishnupur Airfield,23.03392669,16,Unknown,2012-07-21T00:50:39+00:00
+Guskhara Airfield,23.471667,16,Unknown,2012-07-21T01:08:26+00:00
+Pandaveswar Airfield,23.64130052,16,Unknown,2012-07-21T01:13:06+00:00
+Aamby Valley Airport,18.60961667,2262,Aamby Valley City,2010-12-29T17:10:50+00:00
+Kishangarh Airport,26.601473,16,Ajmer,2018-04-30T10:57:09+00:00
+Akli Airport,25.8077,230,Akli,2016-05-15T15:58:47+00:00
+Dhanipur Airstrip,27.86085631,16,Aligarth,2011-05-29T22:01:32+00:00
+Amravati (Belora) Airstrip,20.81334851,1125,Amravati,2012-06-02T11:54:13+00:00
+Jakkur Aerodrome,13.07674,3013,Bengaluru,2016-12-12T11:45:34+00:00
+Bilaspur Helipad,31.34513889,1685,Bilaspur,2012-08-26T04:48:45+00:00
+"Aviation Research Centre, RAW Headquarter Helipad",30.70645,16,Chakrata,2010-12-29T19:13:22+00:00
+Daporijo Airport,27.98550034,750,Daporijo,2014-08-29T01:01:59+00:00
+Dhubulia Airstrip,23.49298469,16,Dhubulia,2010-12-28T14:04:30+00:00
+Digri Airstrip,22.78544033,16,Digri,2010-12-28T14:05:23+00:00
+Sido Kanhu Airport,24.231185,470,Dumka,2016-05-20T21:44:07+00:00
+Kazi Nazrul Islam Airport,23.6225,300,Durgapur,2016-05-20T12:34:28+00:00
+Durgapur Steel Plant Airport,23.58331,290,Durgapur,2016-05-20T20:47:02+00:00
+Faizabad Airport,26.7511282,350,Faizabad,2010-09-09T10:27:57+00:00
+STC BSF Indian Army Helipad,24.3267,16,Gangpimual,2010-12-29T19:12:44+00:00
+PAP Complex Heliport,31.29208333,766,Jalandhar,2010-12-29T19:09:41+00:00
+Kalyan airstrip,19.17921973,16,Kalyan,2010-12-28T14:02:23+00:00
+Kanchrapara Airfield,22.92293299,16,Kanchrapara,2010-12-28T14:00:08+00:00
+Catholic Medical Centre Helipad,24.8062,16,Kangla,2010-12-29T19:08:53+00:00
+Kannur International Airport,11.918614,330,Kannur,2018-10-21T15:29:30+00:00
+Khandwa Airport,21.85711746,16,Khandwa,2010-12-28T13:53:52+00:00
+Kohima Helipad,25.66306667,16,Kohima,2010-12-29T19:14:22+00:00
+Lebong Helipad,27.05908333,16,Lebong,2010-12-29T18:58:39+00:00
+Maithon Heliport,23.785,529,Maithon,2016-05-20T12:01:00+00:00
+Mathura Heliport,27.46423333,16,Mathura,2010-12-29T19:18:06+00:00
+Kunjali Helipad,18.89527337,16,Mimbai,2010-04-25T19:18:17+00:00
+Minicoy Helipad,8.273630142,16,Minicoy Island,2009-08-29T10:47:47+00:00
+Shikra Naval Helibase,18.91334568,16,Mumbai,2010-04-25T19:13:14+00:00
+Butcher Island Helipad,18.9623,16,Mumbai,2010-12-29T19:17:21+00:00
+Mahalaxmi Race Course Helipad,18.98203333,16,Mumbai,2010-12-29T19:16:23+00:00
+Raj Bhavan Helipad,18.94265,16,Mumbai,2010-12-29T19:16:50+00:00
+HQ Eastern Air Command Helipad,25.53818333,16,Myliem,2010-12-29T19:10:56+00:00
+Namchi Helipad,27.15673333,16,Nayabazar,2010-12-29T19:00:34+00:00
+Muhammad Ali Khan,0.0,16,New Delhi,2019-04-28T06:04:05+00:00
+Osmanabad Airport,18.281,2277,Osmanabad,2015-03-13T12:40:34+00:00
+Pedong Helipad,27.15593333,16,Pedong,2010-12-29T18:58:01+00:00
+Pelling Helipad,27.3005,16,Pelling City,2010-12-29T19:01:30+00:00
+Phalodi Airfield,27.11283333,16,Phalodi,2013-02-19T03:17:06+00:00
+Poonch Airport,33.76875,3219,Poonch,2014-05-24T10:27:33+00:00
+Charra Airfield,23.36577729,16,Purulia,2010-12-28T13:56:20+00:00
+Basanth Nagar Airport,18.701,670,Ramagundam,2016-01-12T23:24:11+00:00
+Basanth Nagar Airport,18.701,670,Ramagundam,2015-03-10T00:26:53+00:00
+Surichua Air Base,24.18824,280,Rampurhat,2016-05-20T11:31:55+00:00
+Rasgovindpur Airstrip,21.80508952,16,Rasgovindpur,2010-12-28T14:03:32+00:00
+Korba Airport,22.41416667,1200,Rumgara,2010-09-14T10:31:36+00:00
+Saiha Helipad,22.48858333,16,Saiha,2012-08-18T18:08:22+00:00
+Sevoke Road Indian Army Heliport,26.7744,472,Salugara,2010-12-29T19:02:17+00:00
+Serchhip Helipad,23.32875,16,Serchhip,2010-12-29T17:15:59+00:00
+Shillong Indian Army Helipad,25.54425,16,Shillong,2010-12-29T18:56:49+00:00
+Shirdi Airport,19.688611,1926,Shirdi,2018-04-30T08:54:36+00:00
+Shirpur Airport,21.32399879,16,Shirpur,2010-12-27T06:30:01+00:00
+Umaria Air Field,23.53251391,1510,Umaria,2011-01-22T04:42:50+00:00
+Upper Tadong Indian Army Helipad,27.30671667,16,Upper Tadong,2010-12-29T18:59:38+00:00
+Vanasthali Airport,26.407627,16,Vanasthali,2016-06-28T04:47:31+00:00
+Vijay Nagar Airport,19.8841,16,Vijay Nagar,2010-12-29T19:02:57+00:00
